@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>65125555960-340ejknt34lgcc5strl3ks151254dkp2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.65125555960-340ejknt34lgcc5strl3ks151254dkp2</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>65125555960-vgvhultbpjdik582dmufhrua7dmjbpcp.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCzhafLOaFir0DaWX847IvZMKhfKv4DG6Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>65125555960</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.eyeLight</string>
+	<key>PROJECT_ID</key>
+	<string>eye-light-60a67</string>
+	<key>STORAGE_BUCKET</key>
+	<string>eye-light-60a67.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:65125555960:ios:652075ce85dae0b1ad650d</string>
+</dict>
+</plist>

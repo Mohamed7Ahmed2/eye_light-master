@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "65125555960",
+    "project_id": "eye-light-60a67",
+    "storage_bucket": "eye-light-60a67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65125555960:android:1bc81679c09e4993ad650d",
+        "android_client_info": {
+          "package_name": "com.example.eye_light"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65125555960-vgvhultbpjdik582dmufhrua7dmjbpcp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eye_light",
+            "certificate_hash": "a8f674143673cfa97dce86165f0176d5a933f07b"
+          }
+        },
+        {
+          "client_id": "65125555960-g1798lehhfedqirl0goe3p4j3sauu2a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnLErEzZ4AZDRyQloVKpXW6wbkzRbOSzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65125555960-g1798lehhfedqirl0goe3p4j3sauu2a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
